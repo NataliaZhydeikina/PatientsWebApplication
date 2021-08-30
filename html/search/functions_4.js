@@ -1,0 +1,4 @@
+var searchData=
+[
+  ['index_0',['Index',['../class_patients_web_application_1_1_controllers_1_1_diagnoses_controller.html#ae9df0683801cd40f7c33b9c8d184a526',1,'PatientsWebApplication.Controllers.DiagnosesController.Index()'],['../class_patients_web_application_1_1_controllers_1_1_doctors_controller.html#a6c6c412ff2977db57061df6cca948645',1,'PatientsWebApplication.Controllers.DoctorsController.Index()'],['../class_patients_web_application_1_1_controllers_1_1_home_controller.html#a62d50f12eaee7808b96ea466ebbe964b',1,'PatientsWebApplication.Controllers.HomeController.Index()'],['../class_patients_web_application_1_1_controllers_1_1_patients_controller.html#a943e2678d0a90466b9a36e1b78c917e6',1,'PatientsWebApplication.Controllers.PatientsController.Index()'],['../class_patients_web_application_1_1_controllers_1_1_visits_controller.html#af3db71e6ec6e27b7ccdb8afc99e08aaf',1,'PatientsWebApplication.Controllers.VisitsController.Index()']]]
+];
